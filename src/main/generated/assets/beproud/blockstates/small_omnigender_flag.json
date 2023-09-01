@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "beproud:block/flag/omnigender/small",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "beproud:block/flag/omnigender/small"
+    },
+    "facing=south": {
+      "model": "beproud:block/flag/omnigender/small",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "beproud:block/flag/omnigender/small",
+      "y": 270
+    }
+  }
+}

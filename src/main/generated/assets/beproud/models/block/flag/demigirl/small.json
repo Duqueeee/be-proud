@@ -1,0 +1,7 @@
+{
+  "parent": "beproud:block/flag/base/small",
+  "textures": {
+    "flag": "beproud:block/flag/demigirl/small",
+    "particle": "beproud:block/flag/demigirl/small"
+  }
+}

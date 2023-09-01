@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "beproud:block/flag/new_progress/standard",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "beproud:block/flag/new_progress/standard"
+    },
+    "facing=south": {
+      "model": "beproud:block/flag/new_progress/standard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "beproud:block/flag/new_progress/standard",
+      "y": 270
+    }
+  }
+}

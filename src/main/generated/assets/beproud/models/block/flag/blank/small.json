@@ -1,0 +1,7 @@
+{
+  "parent": "beproud:block/flag/base/small",
+  "textures": {
+    "flag": "beproud:block/flag/blank/small",
+    "particle": "beproud:block/flag/blank/small"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "beproud:printer",
+  "ingredient": {
+    "item": "beproud:large_blank_flag"
+  },
+  "dyes": {
+    "magenta": 18,
+    "blue": 27,
+    "yellow": 0
+  },
+  "result": {
+    "item": "beproud:large_bisexual_flag"
+  }
+}

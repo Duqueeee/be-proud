@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "beproud:block/flag/demiboy/small",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "beproud:block/flag/demiboy/small"
+    },
+    "facing=south": {
+      "model": "beproud:block/flag/demiboy/small",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "beproud:block/flag/demiboy/small",
+      "y": 270
+    }
+  }
+}

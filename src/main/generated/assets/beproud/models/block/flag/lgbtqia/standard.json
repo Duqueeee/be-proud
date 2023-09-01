@@ -1,0 +1,7 @@
+{
+  "parent": "beproud:block/flag/base/standard",
+  "textures": {
+    "flag": "beproud:block/flag/lgbtqia/standard",
+    "particle": "beproud:block/flag/lgbtqia/standard"
+  }
+}

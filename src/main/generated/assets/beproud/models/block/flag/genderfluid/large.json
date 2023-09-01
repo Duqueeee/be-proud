@@ -1,0 +1,7 @@
+{
+  "parent": "beproud:block/flag/base/large",
+  "textures": {
+    "flag": "beproud:block/flag/genderfluid/large",
+    "particle": "beproud:block/flag/genderfluid/large"
+  }
+}

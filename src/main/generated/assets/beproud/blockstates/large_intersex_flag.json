@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "beproud:block/flag/intersex/large",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "beproud:block/flag/intersex/large"
+    },
+    "facing=south": {
+      "model": "beproud:block/flag/intersex/large",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "beproud:block/flag/intersex/large",
+      "y": 270
+    }
+  }
+}

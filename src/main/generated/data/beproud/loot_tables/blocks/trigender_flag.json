@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "block": "beproud:trigender_flag",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "part": "0"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "beproud:trigender_flag"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

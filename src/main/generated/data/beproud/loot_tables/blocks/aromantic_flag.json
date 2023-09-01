@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "block": "beproud:aromantic_flag",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "part": "0"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "beproud:aromantic_flag"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "beproud:block/flag/base/large",
+  "textures": {
+    "flag": "beproud:block/flag/androsexual/large",
+    "particle": "beproud:block/flag/androsexual/large"
+  }
+}

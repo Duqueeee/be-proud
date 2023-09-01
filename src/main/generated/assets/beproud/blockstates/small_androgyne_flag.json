@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "beproud:block/flag/androgyne/small",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "beproud:block/flag/androgyne/small"
+    },
+    "facing=south": {
+      "model": "beproud:block/flag/androgyne/small",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "beproud:block/flag/androgyne/small",
+      "y": 270
+    }
+  }
+}

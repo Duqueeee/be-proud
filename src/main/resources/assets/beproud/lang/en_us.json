@@ -1,0 +1,281 @@
+{
+  "itemGroup.be_proud": "Be Proud",
+
+  "painting.beproud.queer_landing.title": "Queer Landing",
+  "painting.beproud.queer_landing.author": "Duque",
+
+  "block.beproud.printer": "Printer",
+  "block.beproud.pole": "Pole",
+
+  "beproud.printer.dyes.magenta": "Magenta",
+  "beproud.printer.dyes.blue": "Blue",
+  "beproud.printer.dyes.yellow": "Yellow",
+
+  "rei.category.beproud.printer": "Printer",
+
+  "block.beproud.small_blank_flag": "Small Blank Flag",
+  "block.beproud.blank_flag": "Blank Flag",
+  "block.beproud.large_blank_flag": "Large Blank Flag",
+
+  "item.beproud.pride_book": "Pride Book",
+  "beproud.pride_book.desc": "The Gay Agenda",
+
+  "beproud.flag.holdToOpen": "Hold [%s] to open chapter",
+
+
+  "block.beproud.small_lgbtqia_flag": "Small LGBTQIA+ Flag",
+  "block.beproud.lgbtqia_flag": "LGBTQIA+ Flag",
+  "block.beproud.large_lgbtqia_flag": "Large LGBTQIA+ Flag",
+
+  "beproud.pride_book.lgbtqia.title": "LGBTQIA+",
+  "beproud.pride_book.lgbtqia.content": "LGBTQIA+ is an acronym that embraces a diverse range of sexual orientations and gender identities, including Lesbian, Gay, Bisexual, Transgender, Queer, Intersex, Asexual, and more. However, it is crucial to understand that these labels are not obligatory. Some individuals may still be in the process of self-discovery, while others may choose to not adopt any specific label, and both situations are equally valid. Some people incorrectly believe that identifying as part of the community is becoming a trend as more people are becoming openly queer. In reality, this is due to society becoming more accepting of different identities, which in turn allows people to be more comfortable in being their true selves.",
+
+
+  "block.beproud.small_progress_flag": "Small Progress Flag",
+  "block.beproud.progress_flag": "Progress Flag",
+  "block.beproud.large_progress_flag": "Large Progress Flag",
+
+  "beproud.pride_book.progress.title": "Progress Flag",
+  "beproud.pride_book.progress.content": "The Progress Flag was designed with a key objective in mind: to increase visibility and representation of discriminated minorities within the community, particularly black and brown people and the transgender community.",
+
+
+  "block.beproud.small_new_progress_flag": "Small New Progress Flag",
+  "block.beproud.new_progress_flag": "New Progress Flag",
+  "block.beproud.large_new_progress_flag": "Large New Progress Flag",
+
+  "beproud.pride_book.new_progress.title": "New Progress Flag",
+  "beproud.pride_book.new_progress.content": "The New Progress Flag was built from the Progress Flag and, like it's ancestor, it was designed with the goal of bringing visibility to an additional discriminated minority: the intersex community.",
+
+
+  "block.beproud.small_lesbian_flag": "Small Lesbian Flag",
+  "block.beproud.lesbian_flag": "Lesbian Flag",
+  "block.beproud.large_lesbian_flag": "Large Lesbian Flag",
+
+  "beproud.pride_book.lesbian.title": "Lesbian",
+  "beproud.pride_book.lesbian.content": "A lesbian is a woman who experiences romantic or sexual attraction exclusively towards other women. Because the experiences and struggles of lesbians often went under-recognized, the 'L' in (at the time) 'GLBT' was moved to start of the acronym, thus 'LGBT' (which later evolved into what we know today).",
+
+
+  "block.beproud.small_gay_flag": "Small Gay Flag",
+  "block.beproud.gay_flag": "Gay Flag",
+  "block.beproud.large_gay_flag": "Large Gay Flag",
+
+  "beproud.pride_book.gay.title": "Gay Men",
+  "beproud.pride_book.gay.content": "A gay man is an individual who exclusively experiences romantic or sexual attraction towards other men.",
+
+
+  "block.beproud.small_bisexual_flag": "Small Bisexual Flag",
+  "block.beproud.bisexual_flag": "Bisexual Flag",
+  "block.beproud.large_bisexual_flag": "Large Bisexual Flag",
+
+  "beproud.pride_book.bisexual.title": "Bisexuality",
+  "beproud.pride_book.bisexual.content": "The definition of bisexuality varies, with common definitions being attraction to two or more genders or attraction to both one's own gender and other genders. Sadly, some misconceptions persist, leading to the invalidation of bisexual people and the notion that it is merely a phase. It is crucial to recognize that bisexuality is equally as valid and legitimate as any identity, reflecting the complexity and richness of human experiences.",
+
+
+  "block.beproud.small_trans_flag": "Small Trans Flag",
+  "block.beproud.trans_flag": "Trans Flag",
+  "block.beproud.large_trans_flag": "Large Trans Flag",
+
+  "beproud.pride_book.trans.title": "Transgender",
+  "beproud.pride_book.trans.content": "Transgender individuals are people who's gender identity differs from the gender that was assigned to them at birth. It's important to remember that trans people are not obligated to conform to anyone's gender expectations. Respecting and affirming their authentic selves is essential, allowing them the freedom to express their identity without judgment or pressure.",
+
+
+  "block.beproud.small_intersex_flag": "Small Intersex Flag",
+  "block.beproud.intersex_flag": "Intersex Flag",
+  "block.beproud.large_intersex_flag": "Large Intersex Flag",
+
+  "beproud.pride_book.intersex.title": "Intersex",
+  "beproud.pride_book.intersex.content": "Intersex people are individuals born with biological variations in sex characteristics, which may not fit typical definitions of male or female. Intersex people have historically faced harmful practices like non-consensual genital surgeries at birth, aimed at forcing them into binary sex norms.",
+
+
+  "block.beproud.small_asexual_flag": "Small Asexual Flag",
+  "block.beproud.asexual_flag": "Asexual Flag",
+  "block.beproud.large_asexual_flag": "Large Asexual Flag",
+
+  "beproud.pride_book.asexual.title": "Asexuality",
+  "beproud.pride_book.asexual.content": "Asexuality is the lack of sexual attraction to others, or low or absent interest in or desire for sexual activity. It is an umbrella term that encompasses many experiences.",
+
+
+  "block.beproud.small_non_binary_flag": "Small Non-Binary Flag",
+  "block.beproud.non_binary_flag": "Non-Binary Flag",
+  "block.beproud.large_non_binary_flag": "Large Non-Binary Flag",
+
+  "beproud.pride_book.non_binary.title": "Non-Binary",
+  "beproud.pride_book.non_binary.content": "Non-binary people are those who's gender identity does not conform to the gender-binary (man or woman). Unfortunately, it is a common misconception that non-binary people are a recent phenomenon. In reality, numerous cultures throughout history have acknowledged more than one gender. Some examples of such cultures include Hindu, Bugis, Sakalava and various Indigenous North American communities, among others. It is crucial to remember that every identity deserves respect, regardless of how distinct it might be from one's own personal experiences.",
+
+
+  "block.beproud.small_demisexual_flag": "Small Demisexual Flag",
+  "block.beproud.demisexual_flag": "Demisexual Flag",
+  "block.beproud.large_demisexual_flag": "Large Demisexual Flag",
+
+  "beproud.pride_book.demisexual.title": "Demisexuality",
+  "beproud.pride_book.demisexual.content": "Demisexuality is a sexual orientation within the asexuality spectrum where someone only feels sexual attraction to someone after an emotional bond is formed with that person.",
+
+
+  "block.beproud.small_pansexual_flag": "Small Pansexual Flag",
+  "block.beproud.pansexual_flag": "Pansexual Flag",
+  "block.beproud.large_pansexual_flag": "Large Pansexual Flag",
+
+  "beproud.pride_book.pansexual.title": "Pansexuality",
+  "beproud.pride_book.pansexual.content": "Pansexuality is romantic, emotional, or sexual attraction towards people regardless of their gender identity. Pansexual individuals might describe themselves as 'gender-blind', which means that gender doesn't influence who they're attracted to. A common misconception is that pansexual people are attracted to absolutely everyone. However, this is inaccurate. While they could be attracted to anyone, it doesn't mean they're attracted to everyone.",
+
+
+  "block.beproud.small_abrosexual_flag": "Small Abrosexual Flag",
+  "block.beproud.abrosexual_flag": "Abrosexual Flag",
+  "block.beproud.large_abrosexual_flag": "Large Abrosexual Flag",
+
+  "beproud.pride_book.abrosexual.title": "Abrosexuality",
+  "beproud.pride_book.abrosexual.content": "Abrosexual people are those whose sexual orientation is fluid. While a person's sexual identity may shift in some way throughout their life, abrosexual individuals experience more frequent changes spanning hours, days, months, or years. These shifting attractions can differ vastly in timing as well as orientations it fluctuates between, leading to a broad spectrum of experiences. It's important to emphasize that abrosexuality is not indecision, it is a sexual orientation as legitimate as any.",
+
+
+  "block.beproud.small_maverique_flag": "Small Maverique Flag",
+  "block.beproud.maverique_flag": "Maverique Flag",
+  "block.beproud.large_maverique_flag": "Large Maverique Flag",
+
+  "beproud.pride_book.maverique.title": "Maverique",
+  "beproud.pride_book.maverique.content": "Maverique is a gender identity that falls under the nonbinary umbrella term. People who identify as maverique have an active feeling and recognition of a gender. This sense of gender isn't connected to being male, female, neutral, or anything else in between. Some might also feel other genders alongside it, and these additional genders can have ties to maleness, femaleness, or neutrality.",
+
+
+  "block.beproud.small_bigender_flag": "Small Bigender Flag",
+  "block.beproud.bigender_flag": "Bigender Flag",
+  "block.beproud.large_bigender_flag": "Large Bigender Flag",
+
+  "beproud.pride_book.bigender.title": "Bigender",
+  "beproud.pride_book.bigender.content": "Bigender is a gender identity that, like the name implies, is defined by having two distinct gender identities. These two genders can be experienced at the same time or switch between them. While the most common combination is male and female, bigender can also involve any combination that includes non-binary identities.",
+
+
+  "block.beproud.small_graysexual_flag": "Small Graysexual Flag",
+  "block.beproud.graysexual_flag": "Graysexual Flag",
+  "block.beproud.large_graysexual_flag": "Large Graysexual Flag",
+
+  "beproud.pride_book.graysexual.title": "Graysexuality",
+  "beproud.pride_book.graysexual.content": "Graysexual falls within the asexual spectrum as a sexual orientation. It describes individuals who connect with asexuality but find that the term doesn't entirely capture their entire experience. A common reason someone may identify as graysexual is that they experience some sexual attraction, but very infrequently. This attraction might occur only a couple of times throughout their life, or potentially more frequently for some.",
+
+
+  "block.beproud.small_genderflux_flag": "Small Genderflux Flag",
+  "block.beproud.genderflux_flag": "Genderflux Flag",
+  "block.beproud.large_genderflux_flag": "Large Genderflux Flag",
+
+  "beproud.pride_book.genderflux.title": "Genderflux",
+  "beproud.pride_book.genderflux.content": "Genderflux is a gender identity that varies in intensity over time. These variations can occur gradually, rapidly, or at any pace in between, depending on the individual. While typically it maintains some consistency, there are instances when it doesn't. To illustrate, someone might feel agender at one moment, then shift to feeling demiboy, and then feeling as a man, or in any other sequence.",
+
+
+  "block.beproud.small_genderqueer_flag": "Small Genderqueer Flag",
+  "block.beproud.genderqueer_flag": "Genderqueer Flag",
+  "block.beproud.large_genderqueer_flag": "Large Genderqueer Flag",
+
+  "beproud.pride_book.genderqueer.title": "Genderqueer",
+  "beproud.pride_book.genderqueer.content": "Genderqueer is an umbrella term with a similar meaning to non-binary. It can be used to describe binary cisgender and transgender people within the community who feel that they have a queer or non-normative experience with their gender. Additionally, genderqueer is a fitting description for any gender identities beyond the traditional categories of man and woman, effectively encompassing identities that exist outside of the gender binary.",
+
+
+  "block.beproud.small_demiboy_flag": "Small Demiboy Flag",
+  "block.beproud.demiboy_flag": "Demiboy Flag",
+  "block.beproud.large_demiboy_flag": "Large Demiboy Flag",
+
+  "beproud.pride_book.demiboy.title": "Demiboy",
+  "beproud.pride_book.demiboy.content": "A demiboy is someone whose gender identity partially aligns with a masculine identity, and with other gender or genders.",
+
+
+  "block.beproud.small_demigirl_flag": "Small Demigirl Flag",
+  "block.beproud.demigirl_flag": "Demigirl Flag",
+  "block.beproud.large_demigirl_flag": "Large Demigirl Flag",
+
+  "beproud.pride_book.demigirl.title": "Demigirl",
+  "beproud.pride_book.demigirl.content": "A demigirl is someone whose gender identity partially aligns with a feminine identity, and with other gender or genders.",
+
+
+  "block.beproud.small_genderfluid_flag": "Small Genderfluid Flag",
+  "block.beproud.genderfluid_flag": "Genderfluid Flag",
+  "block.beproud.large_genderfluid_flag": "Large Genderfluid Flag",
+
+  "beproud.pride_book.genderfluid.title": "Genderfluidity",
+  "beproud.pride_book.genderfluid.content": "Genderfluidity is a gender identity where one's gender fluctuates. This can occur occasionally, monthly, weekly, daily, or even within moments, depending on the individual. Sometimes it's consistent, and other times it's not. A genderfluid individual can identify as any gender, or combination of genders, at different times. Also depending in the individual, this changes may be dramatic, subtle, rapid, or gradual. Their gender can change at random, or it may vary in response to different circumstances, reflecting the intricate and evolving nature of one's personal identity.",
+
+
+  "block.beproud.small_agender_flag": "Small Agender Flag",
+  "block.beproud.agender_flag": "Agender Flag",
+  "block.beproud.large_agender_flag": "Large Agender Flag",
+
+  "beproud.pride_book.agender.title": "Agender",
+  "beproud.pride_book.agender.content": "Agender is an identity within the non-binary spectrum. Those who identify as agender typically experience a lack of gender identity, though for some, it's better described as possessing a neutral gender identity.",
+
+
+  "block.beproud.small_aromantic_flag": "Small Aromantic Flag",
+  "block.beproud.aromantic_flag": "Aromantic Flag",
+  "block.beproud.large_aromantic_flag": "Large Aromantic Flag",
+
+  "beproud.pride_book.aromantic.title": "Aromantic",
+  "beproud.pride_book.aromantic.content": "Aromantic people experience little-to-no romantic attraction towards others, and their experience of sexual attraction can vary, with some feeling it and others not.",
+
+
+  "block.beproud.small_polyamory_flag": "Small Polyamory Flag",
+  "block.beproud.polyamory_flag": "Polyamory Flag",
+  "block.beproud.large_polyamory_flag": "Large Polyamory Flag",
+
+  "beproud.pride_book.polyamory.title": "Polyamory",
+  "beproud.pride_book.polyamory.content": "Polyamory is the practice of loving multiple people at the same time in an open, honest way. To be polyamorous means to have open intimate or romantic relationships with more than one person at the same time. It hinges on transparency, mutual consent, and open communication, ensuring that all parties concerned are fully aware of the dynamics involved. People who are polyamorous can have any sexual orientation, and polyamorous relationships can include people of different sexual orientations.",
+
+
+  "block.beproud.small_polysexual_flag": "Small Polysexual Flag",
+  "block.beproud.polysexual_flag": "Polysexual Flag",
+  "block.beproud.large_polysexual_flag": "Large Polysexual Flag",
+
+  "beproud.pride_book.polysexual.title": "Polysexuality",
+  "beproud.pride_book.polysexual.content": "Polysexuality is characterized by experiencing sexual attraction towards a range of genders, although not necessarily all of them. A polysexual individual can feel drawn to multiple genders, with this attraction spanning at least two or more genders. Some polysexual people may have a preference for certain genders, while some may not.",
+
+
+  "block.beproud.small_androgyne_flag": "Small Androgyne Flag",
+  "block.beproud.androgyne_flag": "Androgyne Flag",
+  "block.beproud.large_androgyne_flag": "Large Androgyne Flag",
+
+  "beproud.pride_book.androgyne.title": "Androgyne",
+  "beproud.pride_book.androgyne.content": "Androgyne is a gender identity where an individual's gender is a fusion of the traditional binary genders. Those identifying as androgyne often sense their gender as a mixture of both masculine and feminine qualities, existing somewhere in the space between these two genders.",
+
+
+  "block.beproud.small_omnigender_flag": "Small Omnigender Flag",
+  "block.beproud.omnigender_flag": "Omnigender Flag",
+  "block.beproud.large_omnigender_flag": "Large Omnigender Flag",
+
+  "beproud.pride_book.omnigender.title": "Omnigender",
+  "beproud.pride_book.omnigender.content": "An omnigender individual is someone who identifies with nearly all gender identities, though not necessarily every single one. Another way to describe omnigender is as someone who identifies with all genders, with varying degrees of preference or intensity towards certain genders over others.",
+
+
+  "block.beproud.small_omnisexual_flag": "Small Omnisexual Flag",
+  "block.beproud.omnisexual_flag": "Omnisexual Flag",
+  "block.beproud.large_omnisexual_flag": "Large Omnisexual Flag",
+
+  "beproud.pride_book.omnisexual.title": "Omnisexuality",
+  "beproud.pride_book.omnisexual.content": "Omnisexuality is a sexuality where one experiences sexual attraction towards people of all gender identities, with gender playing a role in one's attraction. This involvement of gender in attraction can manifest as a preference or a recognition, and the nature of attraction might vary depending on the specific gender of the individual.",
+
+
+  "block.beproud.small_trigender_flag": "Small Trigender Flag",
+  "block.beproud.trigender_flag": "Trigender Flag",
+  "block.beproud.large_trigender_flag": "Large Trigender Flag",
+
+  "beproud.pride_book.trigender.title": "Trigender",
+  "beproud.pride_book.trigender.content": "Trigender is a non-binary gender identity that denotes an individual's experience of three distinct genders. These genders can encompass both binary and non-binary aspects, and the person may or may not experience fluidity between these three genders.",
+
+
+  "block.beproud.small_pangender_flag": "Small Pangender Flag",
+  "block.beproud.pangender_flag": "Pangender Flag",
+  "block.beproud.large_pangender_flag": "Large Pangender Flag",
+
+  "beproud.pride_book.pangender.title": "Pangender",
+  "beproud.pride_book.pangender.content": "Pangender is a gender identity defined as experiencing a multitude or even all genders. The exact number of genders experienced can be uncertain or subject to change, and these genders may be felt individually or simultaneously. Pangender encompasses such a vast array of genders that listing them all can be challenging, if not impossible, and it can be described as the experience of an extensive and diverse spectrum of genders.",
+
+
+  "block.beproud.small_androsexual_flag": "Small Androsexual Flag",
+  "block.beproud.androsexual_flag": "Androsexual Flag",
+  "block.beproud.large_androsexual_flag": "Large Androsexual Flag",
+
+  "beproud.pride_book.androsexual.title": "Androsexuality",
+  "beproud.pride_book.androsexual.content": "An androsexual individual is someone who experiences sexual attraction primarily directed towards traits associated with masculinity. Typically, their sexual attraction is drawn to masculinity, regardless of the gender of the person displaying these traits. This can include attraction to men, masculine women, and others.",
+
+
+  "block.beproud.small_gynesexual_flag": "Small Gynesexual Flag",
+  "block.beproud.gynesexual_flag": "Gynesexual Flag",
+  "block.beproud.large_gynesexual_flag": "Large Gynesexual Flag",
+
+  "beproud.pride_book.gynesexual.title": "Gynesexuality",
+  "beproud.pride_book.gynesexual.content": "A gynesexual individual is someone who experiences sexual attraction primarily directed towards traits associated with femininity. Typically, their sexual attraction is drawn to femininity, regardless of the gender of the person displaying these traits. This can include attraction to women, femininity men, and others."
+
+}

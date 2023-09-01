@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "beproud:block/printer"
+    },
+    "facing=south": {
+      "model": "beproud:block/printer",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "beproud:block/printer",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "beproud:block/printer",
+      "y": 270
+    }
+  }
+}

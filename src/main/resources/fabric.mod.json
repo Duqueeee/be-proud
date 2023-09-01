@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "beproud",
+  "version": "${version}",
+  "name": "Be Proud",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/minim/Be Proud"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/beproud/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "me.duquee.beproud.datagen.DataGenerator"
+    ],
+    "client": [
+      "me.duquee.beproud.BeProudClient"
+    ],
+    "main": [
+      "me.duquee.beproud.BeProud"
+    ],
+    "rei_client": [
+        "me.duquee.beproud.compat.rei.REIPlugin"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "accessWidener": "beproud.accesswidener",
+  "mixins": [
+    "beproud.mixins.json"
+  ]
+}

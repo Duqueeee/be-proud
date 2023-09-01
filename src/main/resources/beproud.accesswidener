@@ -1,0 +1,6 @@
+accessWidener v1 named
+
+accessible class net/minecraft/client/render/model/json/ModelElement$Deserializer
+
+accessible method net/minecraft/data/client/TexturedModel <init> (Lnet/minecraft/data/client/TextureMap;Lnet/minecraft/data/client/Model;)V
+accessible method net/minecraft/client/gui/DrawContext drawTooltip (Lnet/minecraft/client/font/TextRenderer;Ljava/util/List;IILnet/minecraft/client/gui/tooltip/TooltipPositioner;)V

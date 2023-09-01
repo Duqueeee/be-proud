@@ -1,0 +1,14 @@
+{
+  "type": "beproud:printer",
+  "ingredient": {
+    "item": "beproud:blank_flag"
+  },
+  "dyes": {
+    "magenta": 10,
+    "blue": 10,
+    "yellow": 6
+  },
+  "result": {
+    "item": "beproud:genderflux_flag"
+  }
+}

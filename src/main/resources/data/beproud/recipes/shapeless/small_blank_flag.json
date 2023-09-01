@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "beproud:blank_flag"
+    }
+  ],
+  "result": {
+    "item": "beproud:small_blank_flag",
+    "count": 4
+  }
+}

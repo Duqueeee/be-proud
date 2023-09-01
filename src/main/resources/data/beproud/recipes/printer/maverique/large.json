@@ -1,0 +1,14 @@
+{
+  "type": "beproud:printer",
+  "ingredient": {
+    "item": "beproud:large_blank_flag"
+  },
+  "dyes": {
+    "magenta": 6,
+    "blue": 0,
+    "yellow": 30
+  },
+  "result": {
+    "item": "beproud:large_maverique_flag"
+  }
+}
