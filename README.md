@@ -3,9 +3,9 @@ Be Proud is a mod that celebrates diversity by adding several LGBTQIA+ flags, as
 
 
 ## Download
-**CurseForge**: https://www.curseforge.com/minecraft/mc-mods/create-utilities-fabric
+**CurseForge**: https://www.curseforge.com/minecraft/mc-mods/be-proud
 
-**Modrinth**: https://modrinth.com/mod/create-utilities
+**Modrinth**: https://modrinth.com/mod/be-proud
 
 ## Join our discord server!
 <a href="https://discord.gg/TbEHCGu3kp">
