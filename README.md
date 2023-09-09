@@ -1,5 +1,4 @@
 # Be Proud
-Be Proud is a mod that celebrates diversity by adding several LGBTQIA+ flags, as well as a book explaining each of them. More flags are on the way in upcoming updates!
 
 
 ## Download

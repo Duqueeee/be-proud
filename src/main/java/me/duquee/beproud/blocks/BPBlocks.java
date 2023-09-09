@@ -46,6 +46,8 @@ public class BPBlocks {
     public static final FlagWrapper GAY_FLAG = createFlag("gay");
     public static final FlagWrapper BISEXUAL_FLAG = createFlag("bisexual");
     public static final FlagWrapper TRANS_FLAG = createFlag("trans");
+    public static final FlagWrapper TRANSFEM_FLAG = createFlag("transfem");
+    public static final FlagWrapper TRANSMASC_FLAG  = createFlag("transmasc");
     public static final FlagWrapper INTERSEX_FLAG = createFlag("intersex");
     public static final FlagWrapper ASEXUAL_FLAG = createFlag("asexual");
     public static final FlagWrapper NON_BINARY_FLAG = createFlag("non_binary");
