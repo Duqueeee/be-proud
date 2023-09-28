@@ -77,17 +77,22 @@
 
   "beproud.pride_book.trans.title": "Transgender",
   "beproud.pride_book.trans.content": "Transgender individuals are people who's gender identity differs from the gender that was assigned to them at birth. It's important to remember that trans people are not obligated to conform to anyone's gender expectations. Respecting and affirming their authentic selves is essential, allowing them the freedom to express their identity without judgment or pressure.",
-  "beproud.pride_book.transfem.title": "Transfem",
-  "beproud.pride_book.transfem.content": "Transgender individuals are people who's gender identity differs from the gender that was assigned to them at birth. It's important to remember that trans people are not obligated to conform to anyone's gender expectations. Respecting and affirming their authentic selves is essential, allowing them the freedom to express their identity without judgment or pressure.",
-  "beproud.pride_book.transmasc.title": "Transmasc",
-  "beproud.pride_book.transmasc.content": "Transgender individuals are people who's gender identity differs from the gender that was assigned to them at birth. It's important to remember that trans people are not obligated to conform to anyone's gender expectations. Respecting and affirming their authentic selves is essential, allowing them the freedom to express their identity without judgment or pressure.",
-  "block.beproud.small_transmasc_flag": "Small Transmasc Flag",
-  "block.beproud.transmasc_flag": "Transmasc Flag",
-  "block.beproud.large_transmasc_flag": "Large Transmasc Flag",
 
-  "block.beproud.small_transfem_flag": "Small Transmasc Flag",
-  "block.beproud.transfem_flag": "Transmasc Flag",
-  "block.beproud.large_transfem_flag": "Large Transmasc Flag",
+  "block.beproud.small_transmasc_flag": "Small Transmasculine Flag",
+  "block.beproud.transmasc_flag": "Transmasculine Flag",
+  "block.beproud.large_transmasc_flag": "Large Transmasculine Flag",
+
+  "beproud.pride_book.transmasc.title": "Transmasculine",
+  "beproud.pride_book.transmasc.content": "Transmasculine is an umbrella term that describes a transgender person (generally, but not exclusively, one who was assigned female at birth), and whose gender is masculine and/or who express themselves in a masculine way.",
+
+
+  "block.beproud.small_transfem_flag": "Small Transfeminine Flag",
+  "block.beproud.transfem_flag": "Transfeminine Flag",
+  "block.beproud.large_transfem_flag": "Large Transfeminine Flag",
+
+  "beproud.pride_book.transfem.title": "Transfeminine",
+  "beproud.pride_book.transfem.content": "Transfeminine is an umbrella term that describes a transgender person (generally, but not exclusively, one who was assigned male at birth), and whose gender is feminine and/or who express themselves in a feminine way.",
+
 
   "block.beproud.small_intersex_flag": "Small Intersex Flag",
   "block.beproud.intersex_flag": "Intersex Flag",

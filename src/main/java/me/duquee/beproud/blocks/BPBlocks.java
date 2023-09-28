@@ -74,7 +74,7 @@ public class BPBlocks {
     public static final FlagWrapper ANDROSEXUAL_FLAG = createFlag("androsexual");
     public static final FlagWrapper GYNESEXUAL_FLAG = createFlag("gynesexual");
 
-    private static FlagWrapper createFlag(String type) {
+    public static FlagWrapper createFlag(String type) {
 
         FlagBlock small = registerFlag("small_" + type + "_flag", FlagBlock::small);
         FlagBlock standard = registerFlag(type + "_flag", FlagBlock::standard);
