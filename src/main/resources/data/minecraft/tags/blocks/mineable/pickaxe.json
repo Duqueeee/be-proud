@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "beproud:printer"
+    "beproud:printer",
+    "beproud:pole"
   ]
 }
