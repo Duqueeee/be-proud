@@ -5,11 +5,11 @@
   },
   "dyes": {
     "black": 0,
-    "cyan": 18,
-    "magenta": 18,
+    "cyan": 12,
+    "magenta": 24,
     "yellow": 3
   },
   "result": {
-    "item": "beproud:large_trans_flag"
+    "item": "beproud:large_transfem_flag"
   }
 }

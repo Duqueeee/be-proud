@@ -100,6 +100,7 @@ public class PrinterRecipe implements Recipe<Inventory> {
 
         private int[] getDyes(JsonObject json) {
             return new int[] {
+                    JsonHelper.getInt(json, "black"),
                     JsonHelper.getInt(json, "cyan"),
                     JsonHelper.getInt(json, "magenta"),
                     JsonHelper.getInt(json, "yellow")

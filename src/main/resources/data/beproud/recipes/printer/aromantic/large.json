@@ -4,8 +4,9 @@
     "item": "beproud:large_blank_flag"
   },
   "dyes": {
+    "black": 9,
+    "cyan": 9,
     "magenta": 0,
-    "blue": 9,
     "yellow": 9
   },
   "result": {
