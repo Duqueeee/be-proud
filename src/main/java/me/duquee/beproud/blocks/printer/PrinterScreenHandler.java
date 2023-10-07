@@ -82,7 +82,7 @@ public class PrinterScreenHandler extends ScreenHandler {
                 stack.onCraft(player.getWorld(), player, stack.getCount());
 
                 PrinterRecipe recipe = getSelectedRecipe();
-                for (int i = 0; i < 3; i++) {
+                for (int i = 0; i < 4; i++) {
                     printer.decrementDye(i, recipe.getDye(i));
                 }
 
@@ -198,7 +198,7 @@ public class PrinterScreenHandler extends ScreenHandler {
     }
 
     public boolean hasRequiredDyes(PrinterRecipe recipe) {
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 4; i++) {
             if (recipe.getDye(i) > getDye(i)) return false;
         }
         return true;
@@ -218,8 +218,8 @@ public class PrinterScreenHandler extends ScreenHandler {
     @Override
     public boolean onButtonClick(PlayerEntity player, int id) {
         if (id < 6) {
-            boolean leftClick = id < 3;
-            if (!leftClick) id -= 3;
+            boolean leftClick = id < 4;
+            if (!leftClick) id -= 4;
             if (isCompatible(id, getCursorStack().getItem()) && getDye(id) + 64 <= PrinterBlockEntity.MAX_DYE) {
                 int count = leftClick ? Math.min((PrinterBlockEntity.MAX_DYE - getDye(id)) / 64, getCursorStack().getCount()) : 1;
                 printer.incrementDye(id, 64 * count);
@@ -238,9 +238,10 @@ public class PrinterScreenHandler extends ScreenHandler {
     private boolean isCompatible(int dyeIndex, Item item) {
         if (!(item instanceof DyeItem dye)) return false;
         return switch (dye.getColor()) {
-            case CYAN -> dyeIndex == 0;
-            case MAGENTA -> dyeIndex == 1;
-            case YELLOW -> dyeIndex == 2;
+            case BLACK -> dyeIndex == 0;
+            case CYAN -> dyeIndex == 1;
+            case MAGENTA -> dyeIndex == 2;
+            case YELLOW -> dyeIndex == 3;
             default -> false;
         };
     }

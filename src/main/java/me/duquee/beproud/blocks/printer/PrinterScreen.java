@@ -25,9 +25,10 @@ public class PrinterScreen extends HandledScreen<PrinterScreenHandler> {
     private static final Identifier TEXTURE = BeProud.asIdentifier("textures/gui/printer.png");
 
     private static final Text[] dyeLabels = {
-            Text.translatable("beproud.printer.dyes.cyan").setStyle(Style.EMPTY.withColor(0x29D2FF)),
-            Text.translatable("beproud.printer.dyes.magenta").setStyle(Style.EMPTY.withColor(0xFF44FE)),
-            Text.translatable("beproud.printer.dyes.yellow").setStyle(Style.EMPTY.withColor(0xFFFF56))
+            Text.translatable("color.minecraft.black").setStyle(Style.EMPTY.withColor(0x555555)),
+            Text.translatable("color.minecraft.cyan").setStyle(Style.EMPTY.withColor(0x29D2FF)),
+            Text.translatable("color.minecraft.magenta").setStyle(Style.EMPTY.withColor(0xFF44FE)),
+            Text.translatable("color.minecraft.yellow").setStyle(Style.EMPTY.withColor(0xFFFF56))
     };
 
     private boolean canCraft, isDragging;
@@ -44,8 +45,8 @@ public class PrinterScreen extends HandledScreen<PrinterScreenHandler> {
 
         context.drawTexture(TEXTURE, x, y, 0, 0, backgroundWidth, backgroundHeight);
 
-        renderDyes(context, x + 19, y + 48);
-        renderTubes(context, x + 18, y + 47);
+        renderDyes(context, x + 14, y + 48);
+        renderTubes(context, x + 13, y + 47);
 
         renderScroll(context, x + 123, y + 15);
 
@@ -62,14 +63,14 @@ public class PrinterScreen extends HandledScreen<PrinterScreenHandler> {
     }
 
     private void renderTubes(DrawContext context, int x, int y) {
-        for (int i = 0; i < 3; i++) {
-            context.drawTexture(TEXTURE, x + 7*i, y, 176, 15, 6, 22);
+        for (int i = 0; i < 4; i++) {
+            context.drawTexture(TEXTURE, x + 8*i, y, 176, 15, 6, 22);
         }
     }
 
     private void renderDyes(DrawContext context, int x, int y) {
-        for (int i = 0; i < 3; i++) {
-            context.drawTexture(TEXTURE, x + 7*i, y, 182, 15, 4, 20 - getScaledDye(i));
+        for (int i = 0; i < 4; i++) {
+            context.drawTexture(TEXTURE, x + 8*i, y, 182, 15, 4, 20 - getScaledDye(i));
         }
     }
 
@@ -136,8 +137,8 @@ public class PrinterScreen extends HandledScreen<PrinterScreenHandler> {
             }
         }
 
-        for (int i = 0; i < 3; i++) {
-            int j = x - this.x - i*7 - 18;
+        for (int i = 0; i < 4; i++) {
+            int j = x - this.x - i*8 - 14;
             int k = y - this.y - 47;
             if (j >= 0 && j <= 5 && k >= 0 && k <= 21) {
                 context.drawTooltip(textRenderer,

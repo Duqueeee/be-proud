@@ -27,7 +27,7 @@ import org.jetbrains.annotations.Nullable;
 public class PrinterBlockEntity extends BlockEntity implements ExtendedScreenHandlerFactory {
 
     public static final int MAX_DYE = 256;
-    protected int[] dyes = new int[3];
+    protected int[] dyes = new int[4];
 
     public PrinterBlockEntity(BlockPos pos, BlockState state) {
         super(BPBlockEntities.PRINTER, pos, state);
@@ -81,9 +81,10 @@ public class PrinterBlockEntity extends BlockEntity implements ExtendedScreenHan
         if (!(item instanceof DyeItem dye)) return -1;
         DyeColor color = dye.getColor();
         return switch (color) {
-            case CYAN -> 0;
-            case MAGENTA -> 1;
-            case YELLOW -> 2;
+            case BLACK -> 0;
+            case CYAN -> 1;
+            case MAGENTA -> 2;
+            case YELLOW -> 3;
             default -> -1;
         };
     }
