@@ -25,8 +25,8 @@ public class PrinterScreen extends HandledScreen<PrinterScreenHandler> {
     private static final Identifier TEXTURE = BeProud.asIdentifier("textures/gui/printer.png");
 
     private static final Text[] dyeLabels = {
-            Text.translatable("beproud.printer.dyes.magenta").styled(s -> s.withColor(0xFF44FE)),
-            Text.translatable("beproud.printer.dyes.blue").setStyle(Style.EMPTY.withColor(0x29D2FF)),
+            Text.translatable("beproud.printer.dyes.cyan").setStyle(Style.EMPTY.withColor(0x29D2FF)),
+            Text.translatable("beproud.printer.dyes.magenta").setStyle(Style.EMPTY.withColor(0xFF44FE)),
             Text.translatable("beproud.printer.dyes.yellow").setStyle(Style.EMPTY.withColor(0xFFFF56))
     };
 

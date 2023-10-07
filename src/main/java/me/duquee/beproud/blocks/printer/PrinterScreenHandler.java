@@ -238,8 +238,8 @@ public class PrinterScreenHandler extends ScreenHandler {
     private boolean isCompatible(int dyeIndex, Item item) {
         if (!(item instanceof DyeItem dye)) return false;
         return switch (dye.getColor()) {
-            case MAGENTA -> dyeIndex == 0;
-            case BLUE -> dyeIndex == 1;
+            case CYAN -> dyeIndex == 0;
+            case MAGENTA -> dyeIndex == 1;
             case YELLOW -> dyeIndex == 2;
             default -> false;
         };

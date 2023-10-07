@@ -81,8 +81,8 @@ public class PrinterBlockEntity extends BlockEntity implements ExtendedScreenHan
         if (!(item instanceof DyeItem dye)) return -1;
         DyeColor color = dye.getColor();
         return switch (color) {
-            case MAGENTA -> 0;
-            case BLUE -> 1;
+            case CYAN -> 0;
+            case MAGENTA -> 1;
             case YELLOW -> 2;
             default -> -1;
         };
