@@ -5,11 +5,11 @@
   },
   "dyes": {
     "black": 0,
-    "cyan": 3,
-    "magenta": 5,
-    "yellow": 2
+    "cyan": 8,
+    "magenta": 4,
+    "yellow": 1
   },
   "result": {
-    "item": "beproud:small_abrosexual_flag"
+    "item": "beproud:small_transmasc_flag"
   }
 }

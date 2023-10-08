@@ -4,12 +4,12 @@
     "item": "beproud:blank_flag"
   },
   "dyes": {
-    "black": 4,
-    "cyan": 4,
-    "magenta": 0,
-    "yellow": 4
+    "black": 0,
+    "cyan": 16,
+    "magenta": 8,
+    "yellow": 2
   },
   "result": {
-    "item": "beproud:agender_flag"
+    "item": "beproud:transmasc_flag"
   }
 }

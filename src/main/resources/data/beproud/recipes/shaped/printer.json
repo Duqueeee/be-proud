@@ -2,22 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "X": {
-      "item": "minecraft:glass_bottle"
+      "tag": "c:glass_blocks"
     },
     "Y": {
       "tag": "c:iron_ingots"
     },
     "Z": {
       "tag": "c:redstone_dusts"
-    },
-    "A": {
-      "item": "minecraft:smooth_stone_slab"
     }
   },
   "pattern": [
-    "XXX",
     "YZY",
-    "AAA"
+    "XYX"
   ],
   "result": {
     "item": "beproud:printer"

@@ -5,11 +5,11 @@
   },
   "dyes": {
     "black": 0,
-    "cyan": 18,
-    "magenta": 18,
+    "cyan": 24,
+    "magenta": 12,
     "yellow": 3
   },
   "result": {
-    "item": "beproud:large_trans_flag"
+    "item": "beproud:large_transmasc_flag"
   }
 }
