@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
 
 public class PrinterScreen extends HandledScreen<PrinterScreenHandler> {
 
-    private static final Identifier TEXTURE = BeProud.asIdentifier("textures/gui/printer.png");
+    public static final Identifier TEXTURE = BeProud.asIdentifier("textures/gui/printer.png");
 
     private static final Text[] dyeLabels = {
             Text.translatable("color.minecraft.black").setStyle(Style.EMPTY.withColor(0x555555)),
