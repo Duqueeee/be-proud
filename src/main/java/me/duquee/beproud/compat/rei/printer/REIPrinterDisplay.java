@@ -8,11 +8,11 @@ import me.shedaniel.rei.api.common.util.EntryIngredients;
 import java.util.Collections;
 import java.util.Optional;
 
-public class PrinterDisplay extends BasicDisplay {
+public class REIPrinterDisplay extends BasicDisplay {
 
     private final PrinterRecipe recipe;
 
-    public PrinterDisplay(PrinterRecipe recipe) {
+    public REIPrinterDisplay(PrinterRecipe recipe) {
         super(EntryIngredients.ofIngredients(recipe.getIngredients()),
                 Collections.singletonList(EntryIngredients.of(recipe.getOutput())),
                 Optional.ofNullable(recipe.getId()));
@@ -20,8 +20,8 @@ public class PrinterDisplay extends BasicDisplay {
     }
 
     @Override
-    public CategoryIdentifier<PrinterDisplay> getCategoryIdentifier() {
-        return PrinterRecipeCategory.PRINTER_DISPLAY;
+    public CategoryIdentifier<REIPrinterDisplay> getCategoryIdentifier() {
+        return REIPrinterRecipeCategory.PRINTER_DISPLAY;
     }
 
     public PrinterRecipe getRecipe() {

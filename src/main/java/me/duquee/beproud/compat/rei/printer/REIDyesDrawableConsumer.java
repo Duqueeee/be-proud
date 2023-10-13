@@ -7,12 +7,12 @@ import me.shedaniel.rei.api.client.gui.DrawableConsumer;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.gui.DrawContext;
 
-public class DyesDrawableConsumer implements DrawableConsumer {
+public class REIDyesDrawableConsumer implements DrawableConsumer {
 
     private final Point point;
     private final PrinterRecipe recipe;
 
-    public DyesDrawableConsumer(Point point, PrinterRecipe recipe) {
+    public REIDyesDrawableConsumer(Point point, PrinterRecipe recipe) {
         this.recipe = recipe;
         this.point = point;
     }

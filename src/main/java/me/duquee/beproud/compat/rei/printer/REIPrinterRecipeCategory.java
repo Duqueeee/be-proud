@@ -15,12 +15,12 @@ import net.minecraft.text.Text;
 
 import java.util.List;
 
-public class PrinterRecipeCategory implements DisplayCategory<PrinterDisplay> {
+public class REIPrinterRecipeCategory implements DisplayCategory<REIPrinterDisplay> {
 
-    public static final CategoryIdentifier<PrinterDisplay> PRINTER_DISPLAY = CategoryIdentifier.of(BeProud.MOD_ID, "printer");
+    public static final CategoryIdentifier<REIPrinterDisplay> PRINTER_DISPLAY = CategoryIdentifier.of(BeProud.MOD_ID, "printer");
 
     @Override
-    public List<Widget> setupDisplay(PrinterDisplay display, Rectangle bounds) {
+    public List<Widget> setupDisplay(REIPrinterDisplay display, Rectangle bounds) {
         Point startPoint = new Point(bounds.getCenterX() - 41, bounds.getCenterY() - 22);
         List<Widget> widgets = Lists.newArrayList();
         widgets.add(Widgets.createRecipeBase(bounds));
@@ -33,8 +33,8 @@ public class PrinterRecipeCategory implements DisplayCategory<PrinterDisplay> {
         widgets.add(Widgets.createSlot(new Point(startPoint.x + 4, startPoint.y + 5))
                 .entries(display.getInputEntries().get(0)).markInput());
         widgets.add(Widgets.createDrawableWidget(
-                new DyesDrawableConsumer(
-                        new Point(startPoint.x + 3, startPoint.y + 27),
+                new REIDyesDrawableConsumer(
+                        new Point(startPoint.x - 12, startPoint.y + 27),
                         display.getRecipe())));
         return widgets;
     }
@@ -45,7 +45,7 @@ public class PrinterRecipeCategory implements DisplayCategory<PrinterDisplay> {
     }
 
     @Override
-    public CategoryIdentifier<PrinterDisplay> getCategoryIdentifier() {
+    public CategoryIdentifier<REIPrinterDisplay> getCategoryIdentifier() {
         return PRINTER_DISPLAY;
     }
 
