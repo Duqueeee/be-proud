@@ -23,6 +23,9 @@
     ],
     "rei_client": [
         "me.duquee.beproud.compat.rei.REIPlugin"
+    ],
+    "emi": [
+      "me.duquee.beproud.compat.emi.EMIPlugin"
     ]
   },
   "depends": {
